@@ -5,11 +5,11 @@
       "claim": "ParseRail has no free tier; credits are bought up front",
       "value": "No free tier; credits are bought up front, a $20 pack or a plan from $19/mo",
       "kind": "price",
-      "sourceUrl": "https://parserail.thecompound.tech/pricing",
-      "sourceTitle": "ParseRail pricing",
-      "asOf": "2026-10-02",
+      "sourceUrl": "https://parserail.thecompound.tech/docs/credits",
+      "sourceTitle": "ParseRail — Credits & pricing",
+      "asOf": "2026-10-09",
       "appearsOn": ["README.md", "GEMINI.md", "gemini-extension.json"],
-      "lastVerified": "2026-10-02",
+      "lastVerified": "2026-10-09",
       "status": "verified"
     }
   ]
