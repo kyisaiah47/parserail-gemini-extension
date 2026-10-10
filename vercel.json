@@ -122,16 +122,6 @@
       "permanent": false
     },
     {
-      "source": "/hn",
-      "destination": "/?utm_source=founder-hashnode&utm_medium=social",
-      "permanent": false
-    },
-    {
-      "source": "/hn/:content",
-      "destination": "/?utm_source=founder-hashnode&utm_medium=social&utm_content=:content",
-      "permanent": false
-    },
-    {
       "source": "/tg",
       "destination": "/?utm_source=compound-telegram&utm_medium=social",
       "permanent": false
