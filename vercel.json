@@ -12,16 +12,6 @@
       "permanent": false
     },
     {
-      "source": "/kx",
-      "destination": "/?utm_source=compound-x&utm_medium=social",
-      "permanent": false
-    },
-    {
-      "source": "/kx/:content",
-      "destination": "/?utm_source=compound-x&utm_medium=social&utm_content=:content",
-      "permanent": false
-    },
-    {
       "source": "/bsky",
       "destination": "/?utm_source=founder-bluesky&utm_medium=social",
       "permanent": false
@@ -109,16 +99,6 @@
     {
       "source": "/ki/:content",
       "destination": "/?utm_source=compound-ig&utm_medium=social&utm_content=:content",
-      "permanent": false
-    },
-    {
-      "source": "/bg",
-      "destination": "/?utm_source=ig-legacy&utm_medium=social",
-      "permanent": false
-    },
-    {
-      "source": "/bg/:content",
-      "destination": "/?utm_source=ig-legacy&utm_medium=social&utm_content=:content",
       "permanent": false
     },
     {
