@@ -123,22 +123,22 @@
     },
     {
       "source": "/tg",
-      "destination": "/?utm_source=compound-telegram&utm_medium=social",
+      "destination": "/?utm_source=legacy-tg&utm_medium=social",
       "permanent": false
     },
     {
       "source": "/tg/:content",
-      "destination": "/?utm_source=compound-telegram&utm_medium=social&utm_content=:content",
+      "destination": "/?utm_source=legacy-tg&utm_medium=social&utm_content=:content",
       "permanent": false
     },
     {
       "source": "/fc",
-      "destination": "/?utm_source=compound-farcaster&utm_medium=social",
+      "destination": "/?utm_source=legacy-fc&utm_medium=social",
       "permanent": false
     },
     {
       "source": "/fc/:content",
-      "destination": "/?utm_source=compound-farcaster&utm_medium=social&utm_content=:content",
+      "destination": "/?utm_source=legacy-fc&utm_medium=social&utm_content=:content",
       "permanent": false
     }
   ]
