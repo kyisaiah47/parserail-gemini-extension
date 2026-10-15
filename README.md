@@ -40,6 +40,3 @@ Gemini routes each request through the matching ParseRail tool (`parserail_invoi
 - Node.js 18+ (the MCP server runs via `npx`)
 - A ParseRail API key (`PARSERAIL_API_KEY`)
 
-## License
-
-MIT
